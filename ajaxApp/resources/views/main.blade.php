@@ -18,7 +18,7 @@
     <!-- Custom styles for this template -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="https://tfuecru2003.ieszaidinvergeles.es/DAWES/laraveles/ajaxApp/public/assets/style/dashboard.css" rel="stylesheet">
+    <link href="https://tfuecru2003.ieszaidinvergeles.es/DWES/ajaxApp/ajaxApp//public/assets/style/dashboard.css" rel="stylesheet">
     <style>
       a {
         cursor: pointer;
@@ -368,8 +368,7 @@
       </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-    <script src="https://tfuecru2003.ieszaidinvergeles.es/DAWES/laraveles/ajaxApp/public/assets/script/dashboard.js"></script>
-    <!--<script src="{{ url('assets/script/dashboard.js?r=' . rand(0, 100000)) }}"></script> esto es para evitar problemas de caché (solo sostenible para el desarrollo)-->
+    <script src="https://tfuecru2003.ieszaidinvergeles.es/DWES/ajaxApp/ajaxApp//public/assets/script/dashboard.js"></script>
   </body>
   </body>
 </html>
